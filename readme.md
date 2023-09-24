@@ -1,8 +1,25 @@
-Console Calculator
-This is a simple console-based calculator program written in C++. It prompts the user to enter two numbers, then calculates and displays the sum, difference, product, and quotient of those numbers.
+# Console Calculator
 
-Usage
-To use the program, simply compile and run the ConsoleCalculator.cpp file in a C++ compiler. The program will prompt you to enter two numbers, then display the results of the calculations.
+A straightforward console-based calculator program written in C++.
 
-License
-This program is licensed under the MIT License. See the LICENSE file for details.
+## Usage
+
+1. **Compilation**: 
+   ```bash
+   g++ ConsoleCalculator.cpp -o ConsoleCalculator
+   ```
+   
+2. **Execution**: 
+   ```bash
+   ./ConsoleCalculator
+   ```
+
+Upon execution, the program will prompt you to enter two numbers. Once provided, it will display the calculated sum, difference, product, and quotient of those numbers.
+
+## License
+
+This project is licensed under the MIT License. Check out the [LICENSE](./LICENSE) file for more details.
+
+--- 
+
+Remember, the hyperlinks in markdown (like the LICENSE link above) are relative paths. You'd need to ensure the structure of your project folders matches these paths. Adjust them as necessary based on your project's directory structure.
